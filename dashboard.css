@@ -1,0 +1,1 @@
+body, html {    margin:0;    padding:0;    height:100%;}#topbar {    width:100%;    height:100px;    background:grey;    margin:0;}#graph_div {    width:60%;    height:100%;    float:left;    background:blue;}#panel_div {     width:40%;    float:right;    background:darkgrey;    height:100%;}
